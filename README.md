@@ -71,7 +71,7 @@ Currently, I'm focused on building web applications and honing my skills in vari
 
 
 <!-- CodeChef -->
-<a href="https://www.codechef.com/users/your-username" target="_blank">
+<a href="https://www.codechef.com/users/family_rose_18" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Codechef_logo.svg/512px-Codechef_logo.svg.png" height="30" alt="CodeChef logo" style="margin-right:10px;" />
 </a>
 
